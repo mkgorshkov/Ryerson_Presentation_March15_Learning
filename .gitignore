@@ -2,10 +2,8 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-rest/target/
-rest/.idea/
-portlet_solution/.idea/
-portlet_solution/target/
+target/
+.idea/
 
 # Package Files #
 *.iml
